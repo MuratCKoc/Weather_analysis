@@ -1,6 +1,6 @@
 # Web Design - Web Visualization Dashboard (Latitude)
 
-Dashboard showing off the analysis we've done with weather api.
+Dashboard showing off the weather analysis.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
@@ -10,6 +10,7 @@ Dashboard showing off the analysis we've done with weather api.
 * Javascript
 * CSS 3
 * Bootstrap
+* Jupyter notebook
 
 ## Background
 
